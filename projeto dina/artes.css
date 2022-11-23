@@ -1,0 +1,22 @@
+*{
+    padding: 4px;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #800020;
+    color: white;
+}
+img {
+    width: 700px;
+}
+p {
+    font-size: 18px;
+}
+p a {
+    color: rgb(37, 22, 241);
+    font-weight: bold;
+}
+p a:hover {
+    color: #ffffff;
+    transition: .3s;
+}    
